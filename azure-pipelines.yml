@@ -1,0 +1,32 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+
+- script: |
+    echo Add other tasks to build, test, and deploy your project.
+    echo See https://aka.ms/yaml
+  displayName: 'Run a multi-line script'
+
+- task: install@1
+  inputs:
+    version: '2.25.0'
+    
+- task: deploy@1
+  inputs:
+    authToken: '0440eee1589a894e593f77c0062c7db2d6dd9586d7c1e41bc3d55d80e4e15a76'
+    siteId: 'tereo-site'
+    sourceDirectory: '$(System.DefaultWorkingDirectory)'
+    isValidationOnly: false
+    message: 'Tereo Site'
+    functionsDirectory: './'
