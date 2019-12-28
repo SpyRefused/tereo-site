@@ -8,18 +8,18 @@ contact:
   map:
     enable : true
     gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-    mapLatitude : 51.5223477
-    mapLongitude: -0.1622023
+    mapLatitude : 41.390205
+    mapLongitude: 2.154007
 
   contact_Details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Sant Joan Despi, Barcelona"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: +34 675 62 47 53"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Fax: +34 93 477 09 73"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: spyrefused@gmail.com"
