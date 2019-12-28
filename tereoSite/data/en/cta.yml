@@ -1,7 +1,7 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_Image : "images/backgrounds/bg-4.jpg"
+  bg_Image : "images/backgrounds/bg-5.jpg"
   title : "Value data on each call"
   content : "With Tereo's call center integration, you can leverage your voice data in a meaningful and practical way. 
             We help you unlock and sort out all the information hidden in your customers' voice so you can exploit it.
