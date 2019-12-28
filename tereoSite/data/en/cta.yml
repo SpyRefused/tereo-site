@@ -2,9 +2,19 @@
 cta:
   enable : true
   bg_Image : "images/backgrounds/bg-1.jpg"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Value data on each call"
+  content : "With Tereo's call center integration, you can leverage your voice data in a meaningful and practical way. 
+            We help you unlock and sort out all the information hidden in your customers' voice so you can exploit it.
+            In addition, we offer other improvements in your call center, such as identification of your customers by voice, interaction with your CRM and much more."
   button:
     enable : true
     label : "Start a project with us"
     link : "#contact"
+
+
+    
+
+
+
+
+
