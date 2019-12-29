@@ -2,8 +2,11 @@
 feature:
   enable : true
   image : images/sound.gif
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Voice experts.
+  content : "Voice analysis and recognition by neural networks. In Tereo we are developing a new system of voice recognition and analysis using two techniques: 
+  analysis of the voice itself at the acoustic level and the analysis of the words. 
+  Thanks to these two techniques we obtain a total understanding not only of the context, but also of the feelings, emotions and behaviors of the members of a conversation."
+  
   feature_Item : 
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
       title : SEO Optimized
