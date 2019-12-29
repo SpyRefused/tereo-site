@@ -51,7 +51,7 @@ weight = 1
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 googleAnalitycsID = "Your ID"
-logo = "images/logo-2.png"
+logo = "images/logo-3.png"
 postShare = true
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
@@ -77,7 +77,7 @@ URL = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 URL = "plugins/wow/wow.min.js"
 [params.preloader]
 enable = true
-preloader = "images/logo-2.png"
+preloader = "images/logo-3.png"
 [[params.social_Icon]]
 icon = "ti-facebook"
 link = "#"
