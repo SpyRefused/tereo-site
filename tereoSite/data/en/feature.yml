@@ -4,22 +4,26 @@ feature:
   image : images/sound.gif
   title : Voice experts.
   content : "Voice analysis and recognition by neural networks. In Tereo we are developing a new system of voice recognition and analysis using two techniques: 
-  analysis of the voice itself at the acoustic level and the analysis of the words. 
-  Thanks to these two techniques we obtain a total understanding not only of the context, but also of the feelings, emotions and behaviors of the members of a conversation."
-  
-  feature_Item : 
-    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : SEO Optimized
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-    - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      title : Easy Customization
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+            analysis of the voice itself at the acoustic level and the analysis of the words. 
+            Thanks to these two techniques we obtain a total understanding not only of the context, but also of the feelings, emotions and behaviors of the members of a conversation."
 
-    - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      title : SEO Optimized
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  feature_Item : 
+    - icon : ti-themify-favicon-alt # themify icon pack : https://themify.me/themify-icons
+      title : Acoustic analysis
+      content : Voice recognition of emotions
       
-    - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      title : Easy Customization
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - icon : ti-smallcap # themify icon pack : https://themify.me/themify-icons
+      title : Word recognition
+      content : Speech-to-text
+
+    - icon : ti-wand # themify icon pack : https://themify.me/themify-icons
+      title : Simple
+      content : Simplicity is always a standard for us
+      
+    - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+      title : Customizable
+      content : We adapt to different needs
+
+    - icon : ti-cloud-down # themify icon pack : https://themify.me/themify-icons
+      title : Cloud based & Fast
+      content : Born in the cloud to make it faster and simpler
