@@ -4,8 +4,7 @@ banner:
   bg_Image : "images/slider/call-center.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "TEREO"
-  content : "Let the robots help you.
-             A.I. powered robots to help you in your call center"
+  content : "Let the robots help you: AI-powered services for call centers"
   button:
     enable : true
     label : "Explore Us"

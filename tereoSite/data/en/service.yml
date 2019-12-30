@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Key Features
+  title : Our Features
   service_Item :
     - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
       title : Tips for agents

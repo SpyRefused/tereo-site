@@ -1,22 +1,22 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title : Our Project
+  subtitle : We are looking for financing.
+  content : We are looking for funding to accelerate our project and incorporate more collaborators and resources in different areas.
   image : images/about/company-growth.png
   skill_Item :
-    - name :  Business Development
-      percent : 90%
+    - name :  AI
+      percent : 60%
       
-    - name :  Analysis
+    - name :  Infrastructure
+      percent : 35%
+      
+    - name :  Interfaces
       percent : 70%
       
-    - name :  Design
-      percent : 80%
+    - name :  UI
+      percent : 65%
       
-    - name :  IOS Development
-      percent : 95%
-      
-    - name :  Andriod Development
-      percent : 75%
+    - name :  Overall
+      percent : 50%
