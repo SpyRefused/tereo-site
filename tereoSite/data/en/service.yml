@@ -8,8 +8,8 @@ service:
       content : By analyzing the customer's voice, advice can be given to the agent who will assist him in a better way.
       
     - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      title : Extraction of data from the recordings.
-      content : In an audio recording there is a lot of useful information to extract and exploit, from the automatic evaluation of the agents, average waiting times...
+      title : Data from the recordings.
+      content : In an audio recording there is a lot of useful information to extract and exploit.
       
     - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
       title : Automatic evaluation of attention.
