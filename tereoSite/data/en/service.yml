@@ -1,28 +1,24 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Our Key Features
   service_Item :
-    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : WordPress Theme
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      title : Responsive Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      title : Media &amp; Advertisement
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      title : Graphic Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      title : Apps Development
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
+      title : Tips for agents
+      content : By analyzing the customer's voice, advice can be given to the agent who will assist him in a better way.
       
     - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      title : Networking
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      title : Extraction of data from the recordings.
+      content : In an audio recording there is a lot of useful information to extract and exploit, from the automatic evaluation of the agents, average waiting times...
+      
+    - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+      title : Automatic evaluation of attention.
+      content : Don't steal time from your customers by asking them to value the attention they get, the IA can do that.
+      
+    - icon : ti-unlock # themify icon pack : https://themify.me/themify-icons
+      title : Voice ID
+      content : Speed up the identification of your customers by voice, the fastest and most secure way.
+
+    - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      title : CRM/ERP interface
+      content : Our service can read and write information in the most used CRM/ERP software, integrating with them.
