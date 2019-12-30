@@ -8,11 +8,11 @@ service:
       content : By analyzing the customer's voice, advice can be given to the agent who will assist him in a better way.
       
     - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      title : Data from the recordings.
-      content : In an audio recording there is a lot of useful information to extract and exploit.
+      title : Data from the recordings
+      content : In an audio recording there is a lot of useful information to extract and exploit in many ways.
       
     - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
-      title : Automatic evaluation of attention.
+      title : Automatic evaluation
       content : Don't steal time from your customers by asking them to value the attention they get, the IA can do that.
       
     - icon : ti-unlock # themify icon pack : https://themify.me/themify-icons
@@ -20,5 +20,5 @@ service:
       content : Speed up the identification of your customers by voice, the fastest and most secure way.
 
     - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      title : CRM/ERP interface
+      title : CRM/ERP Interface
       content : Our service can read and write information in the most used CRM/ERP software, integrating with them.
