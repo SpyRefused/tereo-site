@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_Image : "images/slider/call-center.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "NUPA.AI"
+  title : "NUPA"
   content : "Let the robots help you: AI-powered services for call centers"
   button:
     enable : true
